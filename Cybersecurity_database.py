@@ -223,7 +223,7 @@ r = df.resample('1S')
 # wywołanie funkcjii
 n_df = r.agg(extractors)
 # Pozbycie sie nadpisanej kolumny
-n_df.columns = n_df.columns.droplevel(0) # get rid of the heirarchical columns
-print(n_df.head())
+n_df.columns = n_df.columns.droplevel(0) 
+# print(n_df.head())
 # zapisanie danych jako csv
 n_df.to_csv(dataset_path[-25:-10] + '.csv')
