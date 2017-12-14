@@ -92,7 +92,7 @@ def RanForestClassifier(X_train,y_train,X_test, Y_test):
     rfc.fit(X_train, y_train)
     # rfc_pred = rfc.predict(X_test)
     # Zapisanie modelu na dysku
-    filename = 'DecisionTreeClassifier_{}.sav'.format(name[:-4])
+    filename = 'RandomForestClassifier_{}.sav'.format(name[:-4])
     joblib.dump(rfc, filename)
     # Wczytanie modelu
     loaded_model = joblib.load(filename)
