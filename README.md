@@ -5,10 +5,10 @@ Projekt przejściowy - cybersecurity
 
 ### Wykresy danych dla pierwszego przypadku:
 * Heatmap:
-![alt text](http://imagizer.imageshack.us/a/img924/7729/Da76Qq.png )
+![](http://imagizer.imageshack.us/a/img924/7729/Da76Qq.png )
 * Pairplot dla 3 wybranych kolumn:
-![alt text](http://imageshack.com/a/img924/6415/WQo4WO.png)
-
+![](http://imageshack.com/a/img924/6415/WQo4WO.png)
+[Pairplot dla wszystkich kolumn](http://imageshack.com/a/img923/9964/zfNx4e.png)
 
 ### Przy użyciu scikit-learn skuteczność wykrywania anomali wynosi:
 * #### Logistic Regression = 1.0
