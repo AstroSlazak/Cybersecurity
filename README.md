@@ -3,7 +3,7 @@ Projekt przejściowy - cybersecurity
 
 [Baza danych](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html)
 
-### Wykresy danych dla pierwszego przypadku:
+### Wykresy danych dla pierwszego scenariusza:
 * Heatmap:
 ![](http://imagizer.imageshack.us/a/img924/7729/Da76Qq.png )
 * Pairplot dla 3 wybranych kolumn:
