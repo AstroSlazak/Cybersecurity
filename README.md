@@ -3,6 +3,8 @@ Projekt przejściowy - cybersecurity
 
 [Baza danych](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html)
 
+[Obróka danych](https://github.com/corysabol/binetflow-botnet-detect/blob/master/src/Binetflow-botnet-detect.ipynb)
+
 #### Wykresy danych dla pierwszego scenariusza:
 * Heatmap:
 ![](http://imagizer.imageshack.us/a/img924/7729/Da76Qq.png )
@@ -22,6 +24,21 @@ Projekt przejściowy - cybersecurity
 * #### Decision Tree Classifier = 0.871341048332
 * #### Random Forest Classifier = 0.823235761289
 ### Przy użyciu tensorflow skuteczność wykrywania anomalii wynosi:
-* #### Tensorflow = 0.995689
+|Scenariusz |	Skuteczność|
+| --- | --- |
+1 |0.94
+2 |	0.88
+3	|0.97
+4	|0.96
+5	|0.93
+6	|0.93
+7	|0.98
+8	|0.97
+9	|0.98
+10	|0.98
+11	|0.99
+12	|0.98
+13	|0.98
+
 #### Wykres zależności ilości iteracji od skuteczności:
-![](img src="https://image.ibb.co/iTLKE7/image.png)
+![](https://image.ibb.co/iTLKE7/image.png)
