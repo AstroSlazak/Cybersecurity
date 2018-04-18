@@ -24,4 +24,4 @@ Projekt przejściowy - cybersecurity
 ### Przy użyciu tensorflow skuteczność wykrywania anomalii wynosi:
 * #### Tensorflow = 0.995689
 #### Wykres zależności ilości iteracji od skuteczności:
-![](http://imageshack.com/a/img924/5059/zXRTih.png)
+![](https://ibb.co/dCzqMn)
